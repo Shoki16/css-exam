@@ -1,0 +1,30 @@
+.top{
+  display: flex;
+  flex-direction: row;
+}
+.title{
+  margin-left: 5px;
+  color: #0000CD;
+}
+.tag{
+  color:#0000CD;
+  font-weight: bold;
+  margin-left: 60%;
+}
+.meg{
+  font-weight: lighter;
+  font-size: 50px;
+  margin-top: 25%;
+}
+.line{
+  width: 1000px;
+  height: 200px;
+  position: relative;
+  background: #0000CD;
+}
+.card-img img{
+  width: 650px;
+  position: absolute;
+  top: 25%;
+  left: 50%;
+}

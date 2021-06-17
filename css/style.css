@@ -14,12 +14,12 @@
 .meg {
   font-weight: lighter;
   font-size: 50px;
-  margin-top: 0;
+  margin-bottom: 0;
 }
 .line {
   width: 1000px;
   height: 200px;
-  margin-top: 25%;
+  margin-top: 20%;
   position: relative;
   background: navy;
 }

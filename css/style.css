@@ -1,30 +1,31 @@
-.top{
+.top {
   display: flex;
   flex-direction: row;
 }
-.title{
+.title {
   margin-left: 5px;
-  color: #0000CD;
+  color: navy;
 }
-.tag{
-  color:#0000CD;
+.tag {
+  color: navy;
   font-weight: bold;
   margin-left: 60%;
 }
-.meg{
+.meg {
   font-weight: lighter;
   font-size: 50px;
-  margin-top: 25%;
+  margin-top: 0;
 }
-.line{
+.line {
   width: 1000px;
   height: 200px;
+  margin-top: 25%;
   position: relative;
-  background: #0000CD;
+  background: navy;
 }
-.card-img img{
+.card-img img {
   width: 650px;
   position: absolute;
-  top: 25%;
+  top: 20%;
   left: 50%;
 }

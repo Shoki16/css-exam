@@ -9,11 +9,12 @@
 .tag {
   color: navy;
   font-weight: bold;
-  margin-left: 60%;
+  display: flex;
+  justify-content: space-between;
 }
 .meg {
   font-weight: lighter;
-  font-size: 50px;
+  font-size: 60px;
   margin-bottom: 0;
 }
 .line {
@@ -22,12 +23,12 @@
   background: navy;
 }
 .card-img img {
-  width: 650px;
+  width: 50%;
   position: absolute;
   top: 20%;
   left: 50%;
 }
 .set{
   position: relative;
-  margin-top: 25%;
+  margin-top: 23%;
 }

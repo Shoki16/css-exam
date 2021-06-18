@@ -1,6 +1,6 @@
 .top {
   display: flex;
-  flex-direction: row;
+  justify-content: space-between;
 }
 .title {
   margin-left: 5px;
@@ -9,8 +9,6 @@
 .tag {
   color: navy;
   font-weight: bold;
-  display: flex;
-  justify-content: space-between;
 }
 .meg {
   font-weight: lighter;
